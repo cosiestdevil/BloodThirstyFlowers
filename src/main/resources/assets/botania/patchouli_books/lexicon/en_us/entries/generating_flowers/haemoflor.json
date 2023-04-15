@@ -1,0 +1,28 @@
+{
+  "name": "bloodthirstyflowers.entry.haemoflor",
+  "category": "botania:generating_flowers",
+  "icon": "bloodthirstyflowers:haemoflor",
+  "advancement": "botania:main/runic_altar_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "bloodthirstyflowers.page.haemoflor0"
+    },
+    {
+      "type": "text",
+      "text": "bloodthirstyflowers.page.haemoflor2"
+    },
+    {
+      "type": "text",
+      "text": "bloodthirstyflowers.page.haemoflor3"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "bloodthirstyflowers.page.haemoflor1",
+      "recipe": "bloodthirstyflowers:petal_apothecary/haemoflor"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "bloodthirstyflowers:floating_haemoflor": 1
+  }
+}

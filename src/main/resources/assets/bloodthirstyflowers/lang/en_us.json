@@ -1,0 +1,12 @@
+{
+  "block.bloodthirstyflowers.haemoflor": "Haemoflor",
+  "block.bloodthirstyflowers.haemoflor.reference": "Very advised for blood mages",
+  "block.bloodthirstyflowers.floating_haemoflor": "Floating Haemoflor",
+  "bloodthirstyflowers.entry.haemoflor": "Haemoflor",
+  "bloodthirstyflowers.tagline.haemoflor0": "Mana from Life",
+  "bloodthirstyflowers.page.haemoflor0": "The $(item)Haemoflor$(0) is a $(item)Life$(0)-flavoured counterpart to the $(l:generating_flowers/hydroangeas)$(item)Hydroangeas$(0)$(/l). The flower absorbs $(item)Life$(0) around it (at the same altitude) to generate $(thing)Mana$(0).$(p)After absorbing one block of $(item)Life$(0), the flower will produce $(thing)Mana$(0) continually for around 45 seconds, but afterwards needs a bit of time (around 5 minutes) to cool down before it can absorb more.",
+  "bloodthirstyflowers.page.haemoflor2": "The $(thing)Mana$(0) throughput the $(item)Haemoflor$(0) produces during its active phase is extremely high; it's an ideal flower for a quick boost in stores.$(p)However, during its \"cooldown\" period, any adjacent $(thing)Life$(0) will be absorbed and reset the cooldown without yielding any $(thing)Mana$(0).",
+  "bloodthirstyflowers.page.haemoflor3": "While placing $(item)Life$(0) in the world is definitely possible via $(item)Dispensers$(0), automatically gathering it and carrying it from the $(thing)Blood Altar$(0) is not.$(p)As such, the $(item)Haemoflor$(0) is classified as a \"semi-automatable\" flower.",
+  "bloodthirstyflowers.page.haemoflor1": "$(o)The Seventh Wonder$().",
+  "bloodthirstyflowers.subtitle.haemoflor": "Haemoflor sips"
+}

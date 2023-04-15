@@ -1,0 +1,23 @@
+{
+  "type": "botania:petal_apothecary",
+  "output": {
+    "item": "bloodthirstyflowers:haemoflor"
+  },
+  "ingredients": [
+    {
+      "tag": "botania:petals/red"
+    },
+    {
+      "tag": "botania:petals/orange"
+    },
+    {
+      "tag": "botania:petals/orange"
+    },
+    {
+      "item": "botania:rune_earth"
+    },
+    {
+      "item": "bloodmagic:weakbloodshard"
+    }
+  ]
+}
